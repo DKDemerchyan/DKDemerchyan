@@ -20,6 +20,10 @@ ___________________________________________
         <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/PostgreSQL-Dark.svg" alt="icon" width="65" height="65" />
       <br>PostgreSQL
     </td>
+    <td align="center" width="96">
+        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/SQLite.svg" alt="icon" width="65" height="65" />
+      <br>SQLite
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -27,9 +31,23 @@ ___________________________________________
       <br>Bash
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Blender-Dark.svg" alt="icon" width="65" height="65" />
-      <br>Blender
+        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Git.svg" alt="icon" width="65" height="65" />
+      <br>Git
     </td>
+    <td align="center" width="96">
+        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Github-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/GithubActions-Dark.svg" alt="icon" width="65" height="65" />
+      <br>GitActions
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Linux-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Linux
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/HTML.svg" alt="icon" width="65" height="65" />
       <br>HTML
@@ -43,16 +61,31 @@ ___________________________________________
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Git.svg" alt="icon" width="65" height="65" />
-      <br>Git
+        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Nginx.svg" alt="icon" width="65" height="65" />
+      <br>NGINX
+    </td>
+    
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Blender-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Blender
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Github-Dark.svg" alt="icon" width="65" height="65" />
-      <br>Github
+        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/VSCode-Dark.svg" alt="icon" width="65" height="65" />
+      <br>VSCode
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/GithubActions-Dark.svg" alt="icon" width="65" height="65" />
-      <br>GithubActions
+        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Postman.svg" alt="icon" width="65" height="65" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Sentry.svg" alt="icon" width="65" height="65" />
+      <br>Sentry
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Regex-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Regex
     </td>
   </tr>
 </table>
