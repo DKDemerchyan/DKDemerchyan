@@ -1,6 +1,6 @@
 # Hi there! I'm David Demerchyan👋
-<img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/email-svgrepo-com.svg" width="16" height="16"/> davidemer11@yandex.ru
-<br><img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/telegram-outline-svgrepo-com.svg" width="16" height="16"/> dk_demer
+<img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/email-svgrepo-com.svg" width="20" height="20"/> davidemer11@yandex.ru
+<br><img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/telegram-outline-svgrepo-com.svg" width="20" height="20"/> dk_demer
 <!-- Почта, телеграмм -->
 
 ___________________________________________
