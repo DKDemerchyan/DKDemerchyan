@@ -9,23 +9,23 @@ ___________________________________________
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Python-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="icon" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Django.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Docker.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/PostgreSQL-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="icon" width="65" height="65" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/SQLite.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="icon" width="65" height="65" />
       <br>SQLite
     </td>
   </tr>
