@@ -31,23 +31,23 @@ ___________________________________________
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Bash-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="icon" width="65" height="65" />
       <br>Bash
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Git.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="icon" width="65" height="65" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Github-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/GithubActions-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" alt="icon" width="65" height="65" />
       <br>GitActions
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/DKDemerchyan/Badges/blob/main/icons/Linux-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="icon" width="65" height="65" />
       <br>Linux
     </td>
   </tr>
